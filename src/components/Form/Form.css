@@ -1,0 +1,16 @@
+.elements {
+    background: linear-gradient(256.79deg, #5555FF 20.82%, rgba(85, 85, 255, 0.951325) 37.25%, rgba(85, 85, 255, 0.909862) 54.33%, rgba(85, 85, 255, 0.793187) 76.14%, rgba(85, 85, 255, 0.756746) 89.26%, rgba(85, 85, 255, 0.659081) 105.02%, rgba(85, 85, 255, 0) 106%, rgba(85, 85, 255, 0.337126) 106%);
+
+}
+
+.elements-title {
+    letter-spacing: 0.11em;
+}
+
+.elements-icon {
+    width: 79px;
+}
+
+.elements-icon .button {
+    margin: auto;
+}
